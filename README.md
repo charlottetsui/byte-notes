@@ -59,5 +59,4 @@ This modular structure not only improves maintainability but enables independent
 ## Project Management
 We used Figma to create wireframes for our website before developing. We used Notion for project management to keep track of backlog, in progress, in review, and completed tickets. <br>
 [Notion Workspace](https://www.notion.so/F02-Development-Sprints-1-2-1ce1456210fd803089fed0650bf324b6?pvs=4)
-=======
-# byte-notes
+
