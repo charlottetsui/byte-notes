@@ -14,6 +14,16 @@ export const addReactionToCacheFn =
     queryClient.setQueryData(
       ["page_reactions", pageId],
       (oldData: z.infer<typeof Reaction>[] = []) => {
+        // Add check to ensure we can not have duplicate reactions
+        const dupe = oldData.some(
+          (r) =>
+            r.id === reaction.id ||
+            (r.profile_id === reaction.profile_id &&
+              r.reaction_type === reaction.reaction_type)
+        );
+
+        if (dupe) return oldData;
+
         return [...oldData, reaction];
       }
     );
