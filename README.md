@@ -9,7 +9,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-[ByteNotes]((https://bytenotes-seven.vercel.app/login) is a full-stack web application created by Computer Science for Computer Science students to facilitate efficient and organized note-taking in higher-level courses.
+[ByteNotes](https://bytenotes-seven.vercel.app/login) is a full-stack web application created by Computer Science for Computer Science students to facilitate efficient and organized note-taking in higher-level courses.
 
 ## Features
 
