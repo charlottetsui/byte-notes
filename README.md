@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BYTE NOTES 🍪
 
 > Developed by [Caitlin Estrada](https://github.com/caitlinestrada27), [Elizabeth (Lizzie) Coats](https://github.com/escoats), [Sanjana Gopalswamy](https://github.com/sgopal08), and [Yi (Charlotte) Tsui](https://github.com/charlottetsui) for COMP 426: Modern Web Programming at UNC-Chapel Hill.
@@ -62,4 +61,3 @@ We used Figma to create wireframes for our website before developing. We used No
 [Notion Workspace](https://www.notion.so/F02-Development-Sprints-1-2-1ce1456210fd803089fed0650bf324b6?pvs=4)
 =======
 # byte-notes
->>>>>>> bac18a85c27af3549bf3aca842930b99dd2cf486
